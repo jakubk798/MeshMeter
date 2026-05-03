@@ -5,3 +5,4 @@ Research in IoT technology
 Scalable cheap platform for sensors, communicated via 868MHz.
 
 In progress. . . 
+- test test test -
